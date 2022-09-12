@@ -1,0 +1,8 @@
+Esto es el contenido del documento A
+A
+B
+C
+D
+E
+F
+G
